@@ -1,4 +1,4 @@
-Square One: Deep Learning Foundations
+# Square One: Deep Learning Foundations
 
 In the fast-moving world of AI, there is constant pressure to catch up with the latest hype—Agents, LLMs, and Generative pipelines. In the rush to apply these tools, we often gloss over the fundamental concepts that makes them work.
 
